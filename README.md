@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GhostDugzy
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning GCSE Computer Science
+- 💞️ I’m looking to collaborate on learning code, making scripts/code.
+- 📫 How to reach me via email - GhostDugzy@Gmail.com
